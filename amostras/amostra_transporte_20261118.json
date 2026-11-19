@@ -1,0 +1,62 @@
+[
+  {
+    "id_veiculo": 101,
+    "codigo_linha": "809T-10",
+    "nome_ponto": "Terminal Pinheiros",
+    "data_viagem": "2026-11-18",
+    "horario_programado": "08:05",
+    "horario_real": "08:25",
+    "atraso_minutos": 20,
+    "temperatura_c": 24.5,
+    "tem_chuva": true,
+    "fonte": "olhovivo"
+  },
+  {
+    "id_veiculo": 102,
+    "codigo_linha": "809T-10",
+    "nome_ponto": "Terminal Pinheiros",
+    "data_viagem": "2026-11-18",
+    "horario_programado": "08:30",
+    "horario_real": "08:35",
+    "atraso_minutos": 5,
+    "temperatura_c": 24.5,
+    "tem_chuva": true,
+    "fonte": "olhovivo"
+  },
+  {
+    "id_veiculo": 103,
+    "codigo_linha": "702C-10",
+    "nome_ponto": "Metro Butanta",
+    "data_viagem": "2026-11-18",
+    "horario_programado": "09:00",
+    "horario_real": "09:50",
+    "atraso_minutos": 50,
+    "temperatura_c": 25.0,
+    "tem_chuva": false,
+    "fonte": "simulador"
+  },
+  {
+    "id_veiculo": 104,
+    "codigo_linha": "702C-10",
+    "nome_ponto": "Metro Butanta",
+    "data_viagem": "2026-11-18",
+    "horario_programado": "09:15",
+    "horario_real": "09:20",
+    "atraso_minutos": 5,
+    "temperatura_c": 25.0,
+    "tem_chuva": false,
+    "fonte": "simulador"
+  },
+  {
+    "id_veiculo": 105,
+    "codigo_linha": "999X-99",
+    "nome_ponto": "Local Desconhecido",
+    "data_viagem": "2026-11-18",
+    "horario_programado": "10:00",
+    "horario_real": "09:00",
+    "atraso_minutos": -60,
+    "temperatura_c": 26.0,
+    "tem_chuva": true,
+    "fonte": "simulador"
+  }
+]
